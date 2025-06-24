@@ -16,9 +16,6 @@ A web-based Employee Management System built using React.js for the frontend and
 - **State Management:** useState & useEffect hooks
 - **Other Tools:** Vite (for fast development server and build)
 
-## 🖼️ Screenshots
-
-*(Add screenshots here if available)*
 
 ## 📦 Installation
 
@@ -66,19 +63,13 @@ This project is open-source and available under the MIT License.
 
 📬 Contact
 Created by Teja Naga Sai – feel free to reach out!
-
-yaml
-Copy
-Edit
+ Mail: tejanagsai2005@gmail.com
+ 
+ 
 
 ---
 
-### 📌 Resume Project Summary
 
-> **Employee Management System**  
-> Developed a responsive CRUD-based Employee Management System using React.js and Tailwind CSS. Implemented features to add, edit, delete, and display employee records. Utilized modern React hooks (`useState`, `useEffect`) and Vite for fast development. Designed with a clean, user-friendly UI for efficient employee data management.  
-
-Let me know if you want a backend integration or deployment instructions included too!
 
 
 
